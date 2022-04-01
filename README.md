@@ -5,8 +5,9 @@ A docker-compose stack for local web development, which includes:
 - MariaDB 10.5
 - PHP 7.4
 
-There is also a LAMP (Apache + MariaDB + PHP) Docker stack available [on this branch](https://github.com/bolinocroustibat/docker-lemp/tree/lamp).
+There is also a LEPP (Nginx + PostgreSQL + PHP) Docker stack available [on this repo](https://github.com/bolinocroustibat/docker-lepp)
 
+...and a LAMP (Apache + MariaDB + PHP) Docker stack available [on this repo](https://github.com/bolinocroustibat/docker-lamp)
 
 ## How to run
 
